@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Object Detection App</string>
+    <string name="button_text">Load Image</string>
+</resources>
